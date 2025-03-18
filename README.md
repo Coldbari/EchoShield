@@ -1,4 +1,4 @@
-# **EchoShield – Advanced SOS & Emergency Alert System**  
+# **EchoShield – Advanced SOS & Emergency Alert System for Kids Safety**  
 
 **EchoShield** is a smart, real-time SOS and emergency response device designed for personal safety. Built using **ESP32**, **SIM800L**, and **GPS**, it ensures instant distress signals via SMS and calls while providing real-time location tracking.  
 
