@@ -1,0 +1,53 @@
+# **Compiled Files & Binaries**
+*.bin
+*.elf
+*.hex
+*.map
+
+# **Build Folders**
+/build/
+/dist/
+/obj/
+/out/
+/target/
+
+# **Temporary & Backup Files**
+*.tmp
+*.log
+*.bak
+*.swp
+*.swo
+
+# **PlatformIO & Arduino IDE Specific**
+.pio/
+.vscode/
+.arduino/
+.arduino15/
+*.eep
+*.elf
+*.lst
+*.sym
+
+# **Libraries & Dependencies (if using PlatformIO)**
+/libdeps/
+/.gitlibdeps/
+
+# **Configuration & Secret Keys**
+config.h
+*.json
+*.ini
+
+# **MacOS & Windows System Files**
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# **Node.js & Firebase Files (if using Firebase for backend)**
+node_modules/
+firebase-debug.log
+firebase-error.log
+
+# **Python Virtual Environment (if any scripting is included)**
+venv/
+__pycache__/
+
